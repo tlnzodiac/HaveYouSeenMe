@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaveYouSeenMe", "HaveYouSeenMe\HaveYouSeenMe.csproj", "{7F64ACD3-F42A-490A-BFB6-576EB4B11F8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaveYouSeenMe.Tests", "HaveYouSeenMe.Tests\HaveYouSeenMe.Tests.csproj", "{B8B9751B-FCBA-4335-B0DC-9BA7DD434FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F64ACD3-F42A-490A-BFB6-576EB4B11F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F64ACD3-F42A-490A-BFB6-576EB4B11F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F64ACD3-F42A-490A-BFB6-576EB4B11F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F64ACD3-F42A-490A-BFB6-576EB4B11F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B9751B-FCBA-4335-B0DC-9BA7DD434FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B9751B-FCBA-4335-B0DC-9BA7DD434FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B9751B-FCBA-4335-B0DC-9BA7DD434FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B9751B-FCBA-4335-B0DC-9BA7DD434FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
